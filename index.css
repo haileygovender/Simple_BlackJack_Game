@@ -1,0 +1,39 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: green;
+}
+
+
+h1{
+    color: goldenrod;
+}
+
+#message-el{
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+#start-game-btn{
+    background-color: goldenrod;
+    color: green;
+}
+
+#new-card-btn{
+    background-color: blue;
+    color: goldenrod;
+}
